@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "GOA Build 5",
+"dataUrl": "Goa Build.data.unityweb",
+"wasmCodeUrl": "Goa Build.wasm.code.unityweb",
+"wasmFrameworkUrl": "Goa Build.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
